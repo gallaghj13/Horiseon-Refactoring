@@ -1,11 +1,12 @@
+/* Universal Selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/* General styles, their style stays the same throughout the
-HTML. The h2 and h3 elements were consolidated. */
+/* General Styles.
+ The h2 and h3 elements were consolidated. */
 body {
     background-color: #d9dcd6;
 }
@@ -72,7 +73,7 @@ to this selector */
     background-size: cover;
     background-position: center;
 }
-
+/* Main and Aside */
 .content {
     width: 75%;
     display: inline-block;
@@ -126,7 +127,7 @@ under the tags <main>, and <aside> */
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Footer */
 .footer {
     padding: 30px;
     clear: both;
