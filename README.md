@@ -9,8 +9,7 @@ In the original HTML, there was on overuse of the <div> tag. I went through the 
 The CSS file contained certain sections that were redundant. They had multiple elements styled the same way, but in separate classes, so they had to write out styling for each one. I styled them under the same selector to consolidate the CSS.
 
 ## Links
-URL for the deplopyed website:
-URL of the Github repository:
+URL for the deplopyed website: https://gallaghj13.github.io/Horiseon-Refactoring/
 
 
 
